@@ -9,8 +9,6 @@ shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed d
 productID: "9"
 images:
 - image: "/uploads/sample-cloro.PNG"
-- image: images/products/product-2.png
-- image: images/products/product-3.png
 - image: "/uploads/sample-cloro.PNG"
 
 ---
