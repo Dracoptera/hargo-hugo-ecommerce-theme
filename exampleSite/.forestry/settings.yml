@@ -10,8 +10,8 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/content/contacto
-  label: Contacto
+  path: exampleSite/content/contact
+  label: Contact
   create: all
   match: "**/*"
 - type: directory
@@ -20,8 +20,8 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/content/productos
-  label: Productos
+  path: exampleSite/content/products
+  label: Products
   create: all
   match: "**/*"
 - type: directory
